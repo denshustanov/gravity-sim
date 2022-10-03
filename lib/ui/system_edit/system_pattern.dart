@@ -1,0 +1,4 @@
+enum SystemPattern{
+  nCircular,
+  sunEarthMoon
+}

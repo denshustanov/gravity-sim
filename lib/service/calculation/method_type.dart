@@ -1,0 +1,4 @@
+enum MethodType{
+  eulerKromer,
+  irregular
+}
